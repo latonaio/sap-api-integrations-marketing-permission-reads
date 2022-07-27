@@ -1,0 +1,20 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"MarketingPermissionCollection": {
+		"ObjectID": "",
+		"ETag": "",
+		"BusinessPartner_ID": "0001001530",
+		"BusinessPartnerUUID": "",
+		"CreationDateTime": null,
+		"LastChangeDateTime": null,
+		"AlternativeID": "",
+		"EntityLastChangedOn": null                          
+	},
+	"api_schema": "MarketingPermission",
+	"accepter": ["MarketingPermissionCollection"],
+	"marketing_permission_code": "0001001530",
+	"deleted": false
+}
